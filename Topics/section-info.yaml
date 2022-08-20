@@ -1,0 +1,11 @@
+content:
+- toString()
+- LocalTime
+- LocalDate
+- LocalDateTime
+- Instant
+- Processing strings
+- Functional interfaces
+- Standard functional interfaces
+- Optional
+- Floating-point types

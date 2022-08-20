@@ -1,0 +1,53 @@
+# Project exclude paths
+/.gradle/
+/Code Sharing Platform/task/build/
+/Code Sharing Platform/task/out/
+/Code Sharing Platform/task/out/production/classes/
+/Topics/Floating-point types/Area of a circle/out/
+/Topics/Floating-point types/Area of a circle/out/production/classes/
+/Topics/Instant/Min and max Instant units/out/
+/Topics/Instant/Min and max Instant units/out/production/classes/
+/Topics/LocalDate/10 days before/out/
+/Topics/LocalDate/10 days before/out/production/classes/
+/Topics/LocalDate/30 years before and after/out/
+/Topics/LocalDate/30 years before and after/out/production/classes/
+/Topics/LocalDate/Convert numbers to days/out/
+/Topics/LocalDate/Convert numbers to days/out/production/classes/
+/Topics/LocalDate/Getting information on a day/out/
+/Topics/LocalDate/Getting information on a day/out/production/classes/
+/Topics/LocalDate/Print dates of a year with an offset/out/
+/Topics/LocalDate/Print dates of a year with an offset/out/production/classes/
+/Topics/LocalDateTime/Add days and subtract hours/out/
+/Topics/LocalDateTime/Add days and subtract hours/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalDateTime/Merging date-time instances/out/
+/Topics/LocalDateTime/Merging date-time instances/out/production/classes/
+/Topics/LocalDateTime/Subtracting hours and adding minutes/out/
+/Topics/LocalDateTime/Subtracting hours and adding minutes/out/production/classes/
+/Topics/LocalDateTime/The passed hours since the beginning of year/out/
+/Topics/LocalDateTime/The passed hours since the beginning of year/out/production/classes/
+/Topics/LocalDateTime/Whole hours between two date-time pairs/out/
+/Topics/LocalDateTime/Whole hours between two date-time pairs/out/production/classes/
+/Topics/LocalTime/Return time without seconds/out/
+/Topics/LocalTime/Return time without seconds/out/production/classes/
+/Topics/LocalTime/Seconds since start of a day/out/
+/Topics/LocalTime/Seconds since start of a day/out/production/classes/
+/Topics/LocalTime/Some hours and minutes ago/out/
+/Topics/LocalTime/Some hours and minutes ago/out/production/classes/
+/Topics/Optional/Check an Optional value/out/
+/Topics/Optional/Check an Optional value/out/production/classes/
+/Topics/Optional/Create an Optional value/out/
+/Topics/Optional/Create an Optional value/out/production/classes/
+/Topics/Optional/Sum up optional values/out/
+/Topics/Optional/Sum up optional values/out/production/classes/
+/Topics/Optional/The address book/out/
+/Topics/Optional/The address book/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/toString()/Books as strings/out/
+/Topics/toString()/Books as strings/out/production/classes/
+/Topics/toString()/Time as a string/out/
+/Topics/toString()/Time as a string/out/production/classes/
+/Topics/toString()/Users as strings/out/
+/Topics/toString()/Users as strings/out/production/classes/
